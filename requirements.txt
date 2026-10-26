@@ -1,0 +1,16 @@
+requests        #Send HTTP GET, POST, PUT, DELETE requests
+jsonpath-ng     #Extract values from JSON using JSONPath
+lxml            #XML/HTML parsing
+jsonschema      #Validate JSON response against a JSON schema
+google-auth     #Google authentication / OAuth-related work
+faker           #Generate fake names, emails, phone numbers, etc
+pytest          #Python testing framework
+pytest-order    #Control the execution order of pytest tests
+pytest-dependency #Make one test depend on another test
+
+xmltodict
+xmlschema
+
+openpyxl
+python-dotenv
+##install all- pip install -r requirements.txt
